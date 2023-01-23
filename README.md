@@ -1,2 +1,1 @@
-# link-in-bio-templates
-"Link in bio" templates for Instagram Accounts
+# "Link in bio" Templates for Instagram Accounts
